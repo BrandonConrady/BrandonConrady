@@ -3,9 +3,9 @@
 - I plan to use this profile for recreational projects ranging from serious to silly, but mostly somewhere in between.
 
 - Contact info/profiles
--- Email: brandonwconrady@gmail.com
--- LinkedIn: https://www.linkedin.com/in/brandonconrady/
--- Kaggle: https://www.kaggle.com/brandonconrady
+  - Email: brandonwconrady@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/brandonconrady/
+  - Kaggle: https://www.kaggle.com/brandonconrady
 
 <!---
 BrandonConrady/BrandonConrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
