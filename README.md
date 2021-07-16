@@ -1,6 +1,6 @@
 - Hi, I’m @BrandonConrady
 - I’m a student of Data Science at the Associates' level.
-- I plan to use this profile for recreational projects ranging from serious to silly, but mostly somewhere in between.
+- I plan to use this profile for projects ranging from serious to silly, professional to recreational, or somewhere in between.
 
 - Contact info/profiles
   - Email: brandonwconrady@gmail.com
